@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Found a recipe with some ingredients" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-20T17:13:18" hostname="MacBook-Pro-de-Paula-2.local" time="29.845">
+  <properties/>
+  <testcase name="find cinnamon roll recipe with sugar and cinnamon on the list of ingredient" classname="Found a recipe with some ingredients" time="29.845"/>
+  <system-out><![CDATA[Buscando Ingredientes
+INGREDIENTES ENCONTRADOS
+]]></system-out>
+  <system-err><![CDATA[1584724398850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/m5/zfqvjh_54j37xz692mmwj8k00000gn/T/rust_mozprofileL4GTxE"
+1584724399289	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584724399403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584724399403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584724399404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584724399404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584724401052	Marionette	INFO	Listening on port 59704
+1584724401108	Marionette	WARN	TLS certificate errors will be ignored for this session
+mar 20, 2020 2:13:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.tottus.cl/dojo-1-6-2/dojo/dojo.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.tottus.cl/static/2538a//js/tottus-combined.js, line 1257: unreachable code after return statement
+JavaScript error: https://www.tottus.cl/tottus/ line 2214 > scriptElement, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/ line 2214 > scriptElement, line 2: ReferenceError: Swiper is not defined
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+JavaScript error: https://www.tottus.cl/tottus/, line 8708: TypeError: vueHours is null
+1584724426537	Marionette	INFO	Stopped listening on port 59704
+]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testRunners.CucumberRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="MacBook-Pro-de-Paula-2.local" time="0.0">
+  <properties/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[mar 20, 2020 2:13:18 PM cucumber.runtime.java.ObjectFactoryLoader loadSingleObjectFactory
+ADVERTENCIA: Loading deprecated ObjectFactory from runtime via reflection: cucumber.runtime.java.picocontainer.PicoFactory
+]]></system-err>
+</testsuite>
